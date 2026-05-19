@@ -7,39 +7,39 @@ __pycache__/
 *$py.class
 
 # PyInstaller / Distribution
-build/
-dist/
+**/build/
+**/dist/
 *.spec
 
 # Virtual Environments
-venv/
-.venv/
-env/
+**/venv/
+**/.venv/
+**/env/
 
 # JetBrains IDEs
-.idea/
+**/.idea/
 
 # ==========================================
 # Visual Studio / C#
 # ==========================================
 # Build results
-[Bb]in/
-[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
 
 # Visual Studio user-specific files
-.vs/
+**/.vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
 # Deployment / Security
-deploy/
+**/deploy/
 *.exe
 *.pfx
 
 # Designer files (Automatically generated)
-Properties/*.Designer.cs
+**/Properties/*.Designer.cs
 
 # ==========================================
 # General / OS

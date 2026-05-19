@@ -1,0 +1,54 @@
+# ==========================================
+# Python
+# ==========================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Distribution
+build/
+dist/
+*.spec
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# JetBrains IDEs
+.idea/
+
+# ==========================================
+# Visual Studio / C#
+# ==========================================
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Deployment / Security
+deploy/
+*.exe
+*.pfx
+
+# Designer files (Automatically generated)
+Properties/*.Designer.cs
+
+# ==========================================
+# General / OS
+# ==========================================
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and others
+*.log
+*.tmp
